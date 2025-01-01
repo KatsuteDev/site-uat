@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /404
+Disallow: /dependencies
+Disallow: /dependencies/*
+
+Sitemap: https://uat.katsute.dev/sitemap.xml
